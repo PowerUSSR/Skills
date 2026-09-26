@@ -1,0 +1,11 @@
+name: Skills
+version: 1.0
+main: org.mineserver.skills.SkillsPlugin
+api-version: 1.20
+commands:
+  skills:
+    description: Открыть меню навыков
+    usage: /skills
+  rob:
+    description: Ограбить игрока
+    usage: /rob <ник>
